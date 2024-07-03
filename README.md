@@ -1,2 +1,4 @@
 # DemoCode
-This repository contains a selection of files for demo purposes only. It does not represent a complete build and will not compile or run as a standalone application.
+This repository contains a selection of files for demo purposes only.
+While my commercial code slightly differs from my personal projects, I consistently maintain proper variable naming conventions and strive to write readable and maintainable code even in personal projects.
+
